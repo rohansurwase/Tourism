@@ -51,7 +51,7 @@
   "publishConfig": {
     "registry": "https://dev-registry.hyperdart.com"
   },
-  "name": "@hyperdart/tourismexplorer",
+  "name": "@rohan1998/tourism",
   "version": "1.0.0",
   "description": "A place-first tourism explorer with a pocket day plan",
   "engines": {
