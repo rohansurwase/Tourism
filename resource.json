@@ -1,0 +1,6 @@
+{
+  "title": "Tourism Explorer",
+  "description": "Discover real attractions near a resolved location and build a pocket day plan.",
+  "componentScope": { "supportedIntents": [{ "intent": "tourism-search", "description": "Find sights or a specific attraction category near a location.", "example": ["Things to do in Paris", "museums in Delhi", "temples in Kyoto"] }] },
+  "schema": { "type": "object", "properties": { "filters": { "type": "object", "properties": { "category": { "type": "string", "enum": ["all", "museums", "temples", "monuments", "forts", "parks", "viewpoints", "historic"] } } }, "entities": { "collections": ["HD_LOCATION"] } } }
+}

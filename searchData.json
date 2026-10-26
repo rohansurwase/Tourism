@@ -1,0 +1,1 @@
+[{"component":"@hyperdart/tourismexplorer","query":"Things to do in Paris","entities":[{"word":"Paris","collectionType":"HD_LOCATION","collectionName":"CITIES","entityType":"LOCATION","entityInfo":{"geo":{"lat":48.8566,"long":2.3522,"city":"Paris","country":"France"}}}],"suggestedPlace":"mainline"}]
