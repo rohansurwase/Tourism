@@ -42,5 +42,5 @@ export default  {
 		// key-values added here will be added to the compInfo section of searchData
 	},
 	github: "https://github.com/rohansurwase/Tourism",
-	demovideo: ""
+	demovideo: "https://youtu.be/O4oymMPB_aY"
 }
